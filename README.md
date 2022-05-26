@@ -1,1 +1,5 @@
 # gtklient
+
+```
+cp -r ../res/ .
+```

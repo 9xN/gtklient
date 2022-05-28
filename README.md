@@ -1,5 +1,3 @@
 # gtklient
 
-```
-cp -r ../res/ .
-```
+## More information coming soon...
